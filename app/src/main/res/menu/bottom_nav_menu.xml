@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Home -->
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/baseline_add_home_24" />
+
+    <!-- Explore -->
+    <item
+        android:id="@+id/nav_explore"
+        android:title="Explore"
+        android:icon="@drawable/baseline_backspace_24" />
+
+    <!-- Settings -->
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/baseline_app_settings_alt_24" />
+
+    <!-- Profile -->
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/baseline_back_hand_24" />
+
+</menu>
